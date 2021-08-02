@@ -50,6 +50,7 @@ app.*.map.json
 
 # except:
 !.gitignore
+!app_store_images/
 !lib/
 !assets/
 !lib/screens/
